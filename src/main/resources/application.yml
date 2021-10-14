@@ -1,0 +1,5 @@
+fireBase:
+  dbBaseUrl: https://mensagensdodia-be802-default-rtdb.firebaseio.com
+  authFileLocation: serviceAccountKey.json
+  ideaTimeSpanInMinute: 5
+  liveTrackingIntervalInSecond: 2
